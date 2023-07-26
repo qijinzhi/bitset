@@ -1,3 +1,10 @@
+# idea ignore
+.idea/
+
+# system ignore
+.DS_Store
+Thumbs.db
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
